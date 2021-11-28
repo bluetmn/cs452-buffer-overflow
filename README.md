@@ -6,9 +6,13 @@ In this project, you will implement a vulnerable C program which has a buffer ov
 
 We will determine you win the game if the program prints "You won!". 
 
-- Your must use your seat number as your buffer size - this guarantees' everyone's solution would be different.
+- Your must use your seat number as your buffer size - this guarantees everyone's solution would be different.
 - You are not allowed to change the main function(). However, you can change your_fcn() in whatever ways as you like.
 - Hardcoding is okay.
+
+# Due Date
+
+23:59pm, Feburary 3rd, 2022.
 
 # Grading Rubric
 
