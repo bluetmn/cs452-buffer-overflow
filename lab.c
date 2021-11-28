@@ -1,5 +1,5 @@
 #include <stdio.h> /* for printf() */
-#include <stdlib.h> /* for EXIT_SUCCESS */
+#include <stdlib.h> /* for exit() */
 
 int your_fcn(void) {
 	return 0;
@@ -15,5 +15,5 @@ int main(void) {
 		printf("You lost!\n");
 	else
 		printf("You won!\n");
-	return EXIT_SUCCESS;
+	exit(0);
 }
