@@ -22,3 +22,7 @@ All grading will be executed on onyx.boisestate.edu. Submissions that fail to co
 Each compiler warning will result in a 3 point deduction.
 You are not allowed to suppress warnings.
 - [40 pts] You win everytime when the program runs.
+
+# Acknowledgment
+
+This project is borrowed from University of Maryland (CMSC 414: Computer and Network Security), with some slights changes.
