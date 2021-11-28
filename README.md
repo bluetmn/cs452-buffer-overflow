@@ -21,4 +21,4 @@ All grading will be executed on onyx.boisestate.edu. Submissions that fail to co
 - [10 pts] Compiler warnings ALL files.
 Each compiler warning will result in a 3 point deduction.
 You are not allowed to suppress warnings.
-- [40 pts] You win everytime the program runs.
+- [40 pts] You win everytime when the program runs.
