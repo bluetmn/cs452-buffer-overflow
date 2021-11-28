@@ -14,7 +14,7 @@ We will determine you win the game if the program prints "You won!".
 
 All grading will be executed on onyx.boisestate.edu. Submissions that fail to compile will not being graded.
 
-- [10 pts] Compiler warnings ALL files
+- [10 pts] Compiler warnings ALL files.
 Each compiler warning will result in a 3 point deduction.
-You are not allowed to suppress warnings
-- [40 pts] You win everytime the program runs
+You are not allowed to suppress warnings.
+- [40 pts] You win everytime the program runs.
