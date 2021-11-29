@@ -26,4 +26,4 @@ You are not allowed to suppress warnings.
 
 # Acknowledgment
 
-This project is borrowed from University of Maryland (CMSC 414: Computer and Network Security), with some slights changes.
+This project is borrowed from University of Maryland (CMSC 414: Computer and Network Security), with some slight changes.
