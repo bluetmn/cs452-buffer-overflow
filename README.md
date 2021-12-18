@@ -13,7 +13,7 @@ We will determine you win the game if the program prints "You won!".
 
 # Due Date
 
-23:59pm, 01/17/2022. Late submissions will not be accepted/graded.
+23:59pm, 01/18/2022. Late submissions will not be accepted/graded.
 
 # Grading Rubric
 
