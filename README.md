@@ -17,13 +17,9 @@ We will determine you win the game if the program prints "You won!".
 
 # Grading Rubric
 
-All grading will be executed on onyx.boisestate.edu. Submissions that fail to compile will not being graded.
+This is just a warm-up project, and therefore you do not earn any credit for completing this; and your submission will not be graded. However, if you are not able to complete this project, then you are not likely to complete any of the 10 programming assignments.
 
-- [10 pts] Compiler warnings ALL files.
-Each compiler warning will result in a 3 point deduction.
-You are not allowed to suppress warnings.
-- [35 pts] You win everytime when the program runs.
-- [5 pts] Documentation: README.md file (replace this current README.md with a new one using the template on the course page)
+Our general rules are: for user-level programming assignments, all grading will be executed on onyx.boisestate.edu. Submissions that fail to compile will not be graded.
 
 # Acknowledgment
 
