@@ -11,7 +11,7 @@ We will determine you win the game if the program prints "You won!".
 - Your must use your seat number as your buffer size - this guarantees everyone's solution would be different.
 - Hardcoding is okay.
 
-# Due Date
+<!--# Due Date
 
 23:59pm, 01/18/2022. Late submissions will not be accepted/graded.
 
@@ -20,6 +20,7 @@ We will determine you win the game if the program prints "You won!".
 This is just a warm-up project, and therefore you do not earn any credit for completing this; and your submission will not be graded. However, if you are not able to complete this project, then you are not likely to complete any of the 10 programming assignments.
 
 Our general rules are: for user-level programming assignments, all grading will be executed on onyx.boisestate.edu. Submissions that fail to compile will not be graded.
+-->
 
 # Acknowledgment
 
